@@ -24,14 +24,11 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavCoder-X&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavCoder-X&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/NavCoder-X?label=Followers&style=social" alt="GitHub Followers" />  
+  <img src="https://img.shields.io/github/stars/NavCoder-X?style=for-the-badge" alt="GitHub Stars" />
 </p>
 
 ---
