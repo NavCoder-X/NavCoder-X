@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Nav</h1>
 
-<!--
-**NavCoder-X/NavCoder-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Computer Science Student • 🧠 Problem Solver • 🤖 Data & AI
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NavCoder-X&style=flat&color=blue" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 About Me
+🎯 Studente di informatica
+🧠 Ossessionato dal *perché* le cose funzionano  
+🚀 Focus su **algoritmi, competitive programming e AI**  
+📈 Hard work + Constancy 
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NavCoder-X&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavCoder-X&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Focus Attuale
+- 🏆 Competitive Programming (OII-style)
+- 📊 Data Analysis & Machine Learning
+- 🧠 Algoritmi e strutture dati
+- 🛠️ Progetti pratici e studio profondo
+
+---
+
+<p align="center">
+  📌 <i>Se non sai spiegarlo semplicemente, semplicemente non lo hai capito.</i>
+</p>
+
