@@ -10,14 +10,6 @@
 
 ---
 
-## 🧩 About Me
-🎯 Studente di informatica
-🧠 Ossessionato dal *perché* le cose funzionano  
-🚀 Focus su **algoritmi, competitive programming e AI**  
-📈 Hard work + Constancy 
-
----
-
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
