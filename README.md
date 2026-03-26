@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Nav</h1>
 
 <p align="center">
-  🎓 Computer Science Student • 🧠 Problem Solver • 🤖 Data & AI
+  🎓 Computer Science Student
 </p>
 
 <p align="center">
@@ -29,11 +29,6 @@
 - 🏆 Competitive Programming (OII-style)
 - 📊 Data Analysis & Machine Learning
 - 🧠 Algoritmi e strutture dati
-- 🛠️ Progetti pratici e studio profondo
 
 ---
-
-<p align="center">
-  📌 <i>Se non sai spiegarlo semplicemente, semplicemente non lo hai capito.</i>
-</p>
 
